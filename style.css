@@ -1,0 +1,79 @@
+body {
+	margin: 0px;
+	background-color: #615D46;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h2 {
+	color: #E2A889;
+	<!-- za naslove -->
+}
+
+p {
+	line-height: 1.7;
+	<!-- za vse, kar normalno pise -->
+}
+
+li {
+	line-height: 1.7;
+	<!-- za seznam virov -->
+}
+
+.glava {
+	max-width: 800px;
+	margin: 0px auto 0px auto;
+	padding: 20px 35px 35px 35px;
+	text-align: center;
+}
+
+.glava-gumbi {
+	text-decoration: none;
+	color: #F2DACF;
+	<!-- za gumbe v glavi -->
+}
+
+.glava-gumbi:hover {
+	color: #E2A889;
+	<!-- za gumbe, da se obarvajo ko gres z misko gor -->
+}
+
+.prvi-gumb {
+	float: left;
+	padding-right: 50px;
+	<!-- za gumb Digitalna pismenost -->
+}
+
+.ostali-gumbi {
+	float: right;
+	padding-left: 50px;
+	<!-- za ostale gumbe na densi od Digitalne pismenosti -->
+}
+
+.vsebina {
+	max-width: 800px;
+	margin: 0px auto 0px auto;
+	padding: 35px;
+	color: #615D46;
+}
+
+.linki {
+	color: #791D7A;
+	<!-- za linke barva -->
+}
+
+.noga {
+	max-width: 800px;
+	margin: 0px auto 0px auto;
+	padding: 20px 35px 20px 35px;
+	color: #F2DACF;
+}
+
+.barva1 {
+	background-color: #FFFFFF;
+	<!-- za prvo barvo odzadja pri vsebini -->
+}
+
+.barva2 {
+	background-color: #F6F3EE;
+	<!-- za drugo barvo odzadja pri vsebini -->
+}
